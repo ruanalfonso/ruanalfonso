@@ -7,7 +7,7 @@
 - 🌱 Estudando Java Script
 
 
-- Conhecimento sobre Word press,  O primeiro site feito em word press  por mim já está no ar  <a href="https://imoveisdeniolandim.com.br/" target="_blank" </a>
+- Conhecimento sobre Word press,  O primeiro site feito em word press  por mim já está no ar https://imoveisdeniolandim.com.br/
 
 
 
